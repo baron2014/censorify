@@ -6,8 +6,12 @@
     "main": "censorify",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/baron2014/censorify.git"
     },
+    "keywords": [
+        "censor",
+        "words"
+    ],
     "dependencies": {},
     "engines": {
         "node": "*"

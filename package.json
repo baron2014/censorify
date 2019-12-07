@@ -1,0 +1,16 @@
+{
+    "author": "baron2014",
+    "name": "censorify",
+    "version": "0.1.1",
+    "description": "Censors words of text1111",
+    "main": "censorify",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
+
+}
